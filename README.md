@@ -87,8 +87,8 @@
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-  <img src="frontend/public/assets/Darkmode.png" alt="Translator App Light Mode" width="45%">
-  <img src="frontend/public/assets/lightmode.png" alt="Translator App Dark Mode" width="45%">
+  <img src="frontend/public/assets/Darkmode.png" alt="Translator App Dark Mode" width="45%">
+  <img src="frontend/public/assets/Light mode.png" alt="Translator App Light Mode" width="45%">
 </p>
 
 <br>
