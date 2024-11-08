@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Language Translator App</h1>
+<h1 align="center">🌐 Language Translator </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-17.0.2-blue.svg" alt="React">
