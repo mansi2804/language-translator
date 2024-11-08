@@ -11,7 +11,6 @@
 <p align="center">A simple, intuitive, and responsive language translator app built with <strong>React</strong> and <strong>Axios</strong>. This app lets you input text and select a target language to instantly see the translation. With a smooth, dark-mode toggle feature and GitHub icon linking to the developer's profile, the app is designed to be user-friendly and visually appealing.</p>
 
 <br>
-
 ---
 
 <h2>🚀 Features</h2>
@@ -106,7 +105,7 @@
 
 <br>
 
----
+--- 
 
 <h2>🔧 Installation & Setup</h2>
 
