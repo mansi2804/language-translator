@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request
 from googletrans import Translator
 from flask_cors import CORS
-      
+       
 app = Flask(__name__)
 CORS(app)  # Allow all CORS requests
  
